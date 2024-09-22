@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi there 👋
+## 👨‍💻 AI and Machine Learning  Projects
+  - Desktop App with AI Components (Python, tkinter, GPT4 and Whisper)
+    - [LLM-Powered Flashcard Desktop App](https://github.com/arefvandadi/LLM-Powered-Flashcard-App)
+  - Web App with Machine Learning Components (Streamlit, Google Clouds)
+    - [ML Salary Predictor Web App](https://github.com/arefvandadi/ML-App-Salary-Predictor)
+  - Exercise Tracker (ML Project)
+    - [Fitness Tracker](https://github.com/arefvandadi/Fitness_Tracker_Barbell_Exercises) 
 
 <!--
 **arefvandadi/arefvandadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
